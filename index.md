@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Project Statment
 
-You can use the [editor on GitHub](https://github.com/Jholder7/TerminalGameEngine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I worked on this project for about two years, though I have remade it multiple times. My goal is to finalize this engine into a fully functional game engine. My goal is to keep the frontend as easy to use a possible while not limiting the freedom of complexities if one wishes to interface with them. This project holds as history and hopefully a finalized product of a fun simple ASCII game engine. Through my inevitable fuck ups and spelling, I hope this project becomes usable and an entertaining medium for game creation. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Simple Game Example
+```scala
+simple code example{
+	Probably broke it(){
+		Well see ig
+	}
+}
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jholder7/TerminalGameEngine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
