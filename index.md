@@ -4,9 +4,9 @@ I worked on this project for about two years, though I have remade it multiple t
 
 ### Simple Game Example
 ```scala
-simple code example{
-	Probably broke it(){
-		Well see ig
+public class ExampleProgram{
+	public static void main(String[] args){
+		System.out.println("test");
 	}
 }
 ```
