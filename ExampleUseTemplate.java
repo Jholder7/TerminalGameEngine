@@ -1,4 +1,4 @@
-public class EngineUseTemplate{
+public class ExampleUseTemplate{
 
 	public static void main(String[] args){
 	
