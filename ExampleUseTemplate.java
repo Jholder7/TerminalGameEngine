@@ -1,8 +1,10 @@
+import TermGame.*;
+
 public class ExampleUseTemplate{
 
 	public static void main(String[] args){
 	
-		System.out.print("Nothing here yet, probably should fix that.");
+		Window gameWindow = Window.createWindow("Test Title", 50, 50);
 		
 	}
 
