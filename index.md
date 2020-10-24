@@ -4,9 +4,17 @@ I worked on this project for about two years, though I have remade it multiple t
 
 ### Simple Game Example
 ```scala
-public class ExampleProgram{
+// This file will be updated at engine in completed.
+
+import TermGame.*;
+
+public class ExampleUseTemplate{
+
 	public static void main(String[] args){
-		System.out.println("test");
+	
+		Window gameWindow = Window.createWindow("Test Title", 50, 50);
+		
 	}
+
 }
 ```
